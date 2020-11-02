@@ -1,0 +1,134 @@
+
+body{
+    background-size: cover;
+    background-image: url(image/jarvis3.jpg);
+    background-repeat: no-repeat;
+    
+}
+.detail{
+    color: #ffffff;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 0;
+    
+}
+
+.date {
+    margin-bottom: 0px;
+    margin-top: 30px;
+    color:#ffffff;
+    margin-left: 30px;
+    font-size: 10px;
+    font-weight: 600;
+
+}
+.logo-img{
+    width: 60px;
+    margin: 15px 20px;
+    transform: translateY(10px);
+    transition: .5s;
+    
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+    font-weight: 600;
+    margin-left: 30px;
+    
+}
+.btn-danger{
+    border-radius: 20px;
+    margin-left: 80px;
+    background-image: linear-gradient(to right, #17bb1f, #7d1cb6);
+    margin-top: 30px;
+}
+/*-------------------------------*/
+.mid-img{
+    height: 650px;
+
+}
+.socal{
+    float: left;
+    color:#ffffff;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
+.social-icons img{
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+    position: static;
+}
+.social-icons a:hover img{
+    transform: translateY(10px);
+    transition: .5s;
+}
+p{
+    color: #ffffff;
+    
+    margin-top: 40px;
+}
+.text{
+    border-left: solid rgb(219, 35, 3) 2px;
+    margin-right: 10px;
+    text-align: left;
+    padding-left: 20px;
+    
+}
+.btn-primary{
+    margin: 30px;
+    margin-top: 20px;
+}
+p img{
+    border-radius: 50%;
+    width: 30px;
+    margin-right: 10px;
+}
+.btn-primary a{
+    color: black;
+    
+}
+hr{
+    color: cyan;
+}
+.copywrite::before{
+    content: '';
+    background-image: linear-gradient(to right, #17bb1f, #7d1cb6);
+    height: 4px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translatey(0px);
+    
+}
+.copywrite{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.dropdown{
+    margin-left: 70px;
+    color: red;
+    margin-top: 20px;
+    background-image: linear-gradient(to right, #17bb1f, #7d1cb6);
+    border-radius: 20px;
+    
+}
+.heart_img{
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 30px;
+
+}
+.icon_img{
+    width: 40px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 10px;
+
+}
